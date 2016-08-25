@@ -1,0 +1,699 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 345,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Xq9P8xly6iUC",
+      "etag": "rYYV6HTIV7w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Xq9P8xly6iUC",
+      "volumeInfo": {
+        "title": "Java™ for Programmers",
+        "authors": [
+          "Paul J. Deitel",
+          "Harvey M. Deitel"
+        ],
+        "publisher": "Prentice Hall Professional",
+        "publishedDate": "2011-04-18",
+        "description": "The professional programmer’s Deitel® guide to Java™ development and the powerful Java platform Written for programmers with a background in high-level language programming, this book applies the Deitel signature live-code approach to teaching programming and explores the Java language and Java APIs in depth. The book presents concepts in the context of fully tested programs, complete with syntax shading, code highlighting, line-by-line code walkthroughs and program outputs. The book features 200+ complete Java programs with 18,000+ lines of proven Java code, and hundreds of tips that will help you build robust applications. Start with an introduction to Java using an early classes and objects approach, then rapidly move on to more advanced topics, including GUI, graphics, exception handling, generics, collections, JDBC™, web-application development with JavaServer™ Faces, web services and more. You’ll enjoy the Deitels’ classic treatment of object-oriented programming and the OOD/UML® ATM case study, including a complete Java implementation. When you’re finished, you’ll have everything you need to build object-oriented Java applications.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0132821559"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780132821551"
+          }
+        ],
+        "pageCount": 1168,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "contentVersion": "0.4.2.0.preview.3",
+        "imageLinks": {
+          "smallThumbnail": "http://bks2.books.google.com.br/books?id=Xq9P8xly6iUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://bks2.books.google.com.br/books?id=Xq9P8xly6iUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=Xq9P8xly6iUC&pg=PA1108&dq=Java+inauthor:Deitel&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=Xq9P8xly6iUC&dq=Java+inauthor:Deitel&hl=&source=gbs_api",
+        "canonicalVolumeLink": "http://books.google.com.br/books/about/Java_for_Programmers.html?hl=&id=Xq9P8xly6iUC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 114.75,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 114.75,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "http://books.google.com.br/books?id=Xq9P8xly6iUC&dq=Java+inauthor:Deitel&hl=&buy=&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 114750000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 114750000,
+              "currencyCode": "BRL"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Java_for_Programmers-sample-epub.acsm?id=Xq9P8xly6iUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Java_for_Programmers-sample-pdf.acsm?id=Xq9P8xly6iUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://books.google.com.br/books/reader?id=Xq9P8xly6iUC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "start method 654, 659 stop method 654 jar command 662 c option 662 f option <br>\n662 v option 662 jar element of a JNLP document 664 JAR file 674, 681 <b>Java</b> 2D <br>\nAPI 469, 494,651, 669 <b>Java</b> 2D shapes 494 <b>Java</b> 2D Shapes package 124 <b>Java</b><br>\n&nbsp;<b>...</b>"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Q2VnzLtwR60C",
+      "etag": "RKQAAc4hMgM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Q2VnzLtwR60C",
+      "volumeInfo": {
+        "title": "Xml Como Programar",
+        "authors": [
+          "HARVEY M. DEITEL"
+        ],
+        "publisher": "Bookman",
+        "description": "Este livro examina cuidadosamente o desenvolvimento de sistemas baseados em XML, incluindo programação de aplicativos de múltiplas camadas, aplicativos cliente-servidor, aplicativos orientados a banco de dados e para a Internet e a World Wide Web.Em XML Como Programar, os Deitels e seus colegas, Tem R. Nieto, Ted Lin e Praveen Sadhu, discutem tópicos indispensáveis para quem precisa construir completos sistemas funcionais baseados em XML.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8536301473"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788536301471"
+          }
+        ],
+        "pageCount": 972,
+        "printType": "BOOK",
+        "averageRating": 4,
+        "ratingsCount": 5,
+        "contentVersion": "1.1.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://bks3.books.google.com.br/books?id=Q2VnzLtwR60C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://bks3.books.google.com.br/books?id=Q2VnzLtwR60C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt",
+        "previewLink": "http://books.google.com.br/books?id=Q2VnzLtwR60C&pg=PA817&dq=Java+inauthor:Deitel&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=Q2VnzLtwR60C&dq=Java+inauthor:Deitel&hl=&source=gbs_api",
+        "canonicalVolumeLink": "http://books.google.com.br/books/about/Xml_Como_Programar.html?hl=&id=Q2VnzLtwR60C"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://books.google.com.br/books/reader?id=Q2VnzLtwR60C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Ao escrever aplicativos <b>Java</b>, há casos em que um método (isto é, uma função) <br>\nespera receber um tipo primitivo, mas foi passado um determinado tipo primitivo <br>\ndiferente. Algumas linguagens de programação são flexíveis em realizar&nbsp;<b>...</b>"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xWMVRAAACAAJ",
+      "etag": "Fm50qktENH0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xWMVRAAACAAJ",
+      "volumeInfo": {
+        "title": "Java",
+        "subtitle": "como programar",
+        "authors": [
+          "HARVEY DEITEL",
+          "PAUL DEITEL Deitel"
+        ],
+        "publishedDate": "2010",
+        "description": "Introdução aos computadores, à Internet e à World Wide Web. Introdução aos aplicativos Java. Introdução a classes e objetos. Instruções de controle: Parte 1. Instruções de controle: Parte 2. Métodos: uma visão mais aprofundada. Arrays e ArrayLists. Classes e objetos: uma visão mais aprofundada. Programação orientada a objetos: herança. Programação orientada a objetos: polimorfismo. Tratamento de exceções. Estudo de caso de ATM, Parte 1: projeto orientado a objetos com UML. Estudo de caso de ATM, Parte 2: implementando um projeto orientado a objetos. Componentes GUI: Parte 1. Imagens gráficas e Java 2DTM. Strings, caracteres e expressões regulares. Arquivos, fluxos e serialização de objetos. Recursão; Pesquisa, classificação e Big O. Coleções genéricas. Classes e métodos genéricos. Estruturas de dados genéricas personalizadas. Applets e Java Web Start. Multimídia: applets e aplicativos. Componentes GUi: Parte 2. Multithreading. Redes. Acesso a banco de dados com o JDBC. Aplicativos Web JavaServerTM Faces. Aplicativos Web JavaServerTM Faces compatíveis com Ajax. Serviços web.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8576055635"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788576055631"
+          }
+        ],
+        "pageCount": 1144,
+        "printType": "BOOK",
+        "contentVersion": "preview-1.0.0",
+        "language": "pt",
+        "previewLink": "http://books.google.com.br/books?id=xWMVRAAACAAJ&dq=Java+inauthor:Deitel&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=xWMVRAAACAAJ&dq=Java+inauthor:Deitel&hl=&source=gbs_api",
+        "canonicalVolumeLink": "http://books.google.com.br/books/about/Java.html?hl=&id=xWMVRAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://books.google.com.br/books/reader?id=xWMVRAAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "NONE"
+      },
+      "searchInfo": {
+        "textSnippet": "Introdução aos computadores, à Internet e à World Wide Web. Introdução aos aplicativos Java. Introdução a classes e objetos. Instruções de controle: Parte 1. Instruções de controle: Parte 2."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OANiO7ZXPHEC",
+      "etag": "iVMd3FB7LWc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OANiO7ZXPHEC",
+      "volumeInfo": {
+        "title": "C++ for Programmers",
+        "authors": [
+          "Paul J. Deitel",
+          "Harvey M. Deitel"
+        ],
+        "publisher": "Pearson Education",
+        "publishedDate": "2009-01-23",
+        "description": "PRACTICAL, EXAMPLE-RICH COVERAGE OF: Classes, Objects, Encapsulation, Inheritance, Polymorphism Integrated OOP Case Studies: Time, GradeBook, Employee Industrial-Strength, 95-Page OOD/UML® 2 ATM Case Study Standard Template Library (STL): Containers, Iterators and Algorithms I/O, Types, Control Statements, Functions Arrays, Vectors, Pointers, References String Class, C-Style Strings Operator Overloading, Templates Exception Handling, Files Bit and Character Manipulation Boost Libraries and the Future of C++ GNU™ and Visual C++® Debuggers And more… VISIT WWW.DEITEL.COM For information on Deitel® Dive-Into® Series corporate training courses offered at customer sites worldwide (or write to deitel@deitel.com) Download code examples Check out the growing list of programming, Web 2.0 and software-related Resource Centers To receive updates for this book, subscribe to the free DEITEL® BUZZ ONLINE e-mail newsletter at www.deitel.com/newsletter/subscribe.html Read archived issues of the DEITEL® BUZZ ONLINE The professional programmer’s DEITEL® guide to C++ and object-oriented application development Written for programmers with a background in high-level language programming, this book applies the Deitel signature live-code approach to teaching programming and explores the C++ language and C++ Standard Libraries in depth. The book presents the concepts in the context of fully tested programs, complete with syntax shading, code highlighting, code walkthroughs and program outputs. The book features 240 C++ applications with over 15,000 lines of proven C++ code, and hundreds of tips that will help you build robust applications. Start with an introduction to C++ using an early classes and objects approach, then rapidly move on to more advanced topics, including templates, exception handling, the Standard Template Library (STL) and selected features from the Boost libraries. You’ll enjoy the Deitels’ classic treatment of object-oriented programming and the OOD/UML® 2 ATM case study, including a complete C++ implementation. When you’re finished, you’ll have everything you need to build object-oriented C++ applications. The DEITEL® Developer Series is designed for practicing programmers. The series presents focused treatments of emerging technologies, including C++, .NET, Java™, web services, Internet and web development and more. PRE-PUBLICATION REVIEWER TESTIMONIALS “An excellent ‘objects first’ coverage of C++. The example-driven presentation is enriched by the optional UML case study that contextualizes the material in an ongoing software engineering project.” –Gavin Osborne, Saskatchewan Institute of Applied Science and Technology “Introducing the UML early on is a great idea.” –Raymond Stephenson, Microsoft “Good use of diagrams, especially of the activation call stack and recursive functions.” –Amar Raheja, California State Polytechnic University, Pomona “Terrific discussion of pointers–probably the best I have seen.” –Anne B. Horton, Lockheed Martin “Great coverage of polymorphism and how the compiler implements polymorphism ‘under the hood.’” –Ed James-Beckham, Borland “The Boost/C++0x chapter will get you up and running quickly with the memory management and regular expression libraries, plus whet your appetite for new C++ features being standardized.” –Ed Brey, Kohler Co. “Excellent introduction to the Standard Template Library (STL). The best book on C++ programming!” –Richard Albright, Goldey-Beacom College “Just when you think you are focused on learning one topic, suddenly you discover you’ve learned more than you expected.” –Chad Willwerth, University of Washington, Tacoma “The most thorough C++ treatment I’ve seen. Replete with real-world case studies covering the full software development lifecycle. Code examples are extraordinary!” –Terrell Hull, Logicalis Integration Solutions/",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0137018479"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780137018475"
+          }
+        ],
+        "pageCount": 1056,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 3,
+        "contentVersion": "1.4.1.0.preview.3",
+        "imageLinks": {
+          "smallThumbnail": "http://bks0.books.google.com.br/books?id=OANiO7ZXPHEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://bks0.books.google.com.br/books?id=OANiO7ZXPHEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=OANiO7ZXPHEC&pg=PR71&dq=Java+inauthor:Deitel&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=OANiO7ZXPHEC&dq=Java+inauthor:Deitel&hl=&source=gbs_api",
+        "canonicalVolumeLink": "http://books.google.com.br/books/about/C++_for_Programmers.html?hl=&id=OANiO7ZXPHEC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 114.75,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 114.75,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "http://books.google.com.br/books?id=OANiO7ZXPHEC&dq=Java+inauthor:Deitel&hl=&buy=&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 114750000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 114750000,
+              "currencyCode": "BRL"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/C++_for_Programmers-sample-epub.acsm?id=OANiO7ZXPHEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/C++_for_Programmers-sample-pdf.acsm?id=OANiO7ZXPHEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://books.google.com.br/books/reader?id=OANiO7ZXPHEC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Some organizations you&#39;ll hear a lot about in the open source community are the <br>\nEclipse Foundation (the Eclipse IDE is popular for C++ and <b>Java</b> software <br>\ndevelopment), the Mozilla Foundation (creators of the Firefox browser), the <br>\nApache&nbsp;<b>...</b>"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HdOW3luqHZwC",
+      "etag": "ZuSWHKd7k5s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HdOW3luqHZwC",
+      "volumeInfo": {
+        "title": "JavaScript for Programmers",
+        "authors": [
+          "Paul J. Deitel",
+          "Harvey M. Deitel"
+        ],
+        "publisher": "Pearson Education",
+        "publishedDate": "2009-03-16",
+        "description": "The practicing programmer’s Deitel® guide to XHTML®, CSS®, JavaScript™, XML® and Ajax RIA development. This book applies the Deitel signature live-code approach to teaching the client side of Rich Internet Applications (RIA) development. The book presents concepts in the context of 100+ fully tested programs (6,000+ lines of code), complete with syntax shading, detailed descriptions and sample outputs. The book features over 150 tips that will help you build robust client-side web applications. Start with an introduction to Extensible HyperText Markup Language (XHTML®) and Cascading Style Sheets (CSS®), then rapidly move on to the details of JavaScript™ programming. Finish with more advanced client-side development technologies including XHTML’s Document Object Model (DOM®), Extensible Markup Language (XML®), XML’s DOM, JavaScript Object Notation (JSON) and Asynchronous JavaScript and XML (Ajax). When you’re finished, you’ll have everything you need to build the client side of Web 2.0 Rich Internet Applications (RIAs). The book culminates with several substantial Ajax-enabled RIAs, including a book cover viewer (JavaScript/DOM), an address book (Ajax/consuming web services) and a calendar application (Ajax/Dojo/consuming web services). TheDeitel® Developer Seriesis designed for professional programmers. The series presents focused treatments of emerging technologies, including .NET, Java™, web services, Internet and web development and more.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0137013116"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780137013111"
+          }
+        ],
+        "pageCount": 448,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "contentVersion": "0.3.1.0.preview.3",
+        "imageLinks": {
+          "smallThumbnail": "http://bks8.books.google.com.br/books?id=HdOW3luqHZwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://bks8.books.google.com.br/books?id=HdOW3luqHZwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=HdOW3luqHZwC&pg=PT40&dq=Java+inauthor:Deitel&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=HdOW3luqHZwC&dq=Java+inauthor:Deitel&hl=&source=gbs_api",
+        "canonicalVolumeLink": "http://books.google.com.br/books/about/JavaScript_for_Programmers.html?hl=&id=HdOW3luqHZwC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 85.1,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 85.1,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "http://books.google.com.br/books?id=HdOW3luqHZwC&dq=Java+inauthor:Deitel&hl=&buy=&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 85100000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 85100000,
+              "currencyCode": "BRL"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/JavaScript_for_Programmers-sample-epub.acsm?id=HdOW3luqHZwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/JavaScript_for_Programmers-sample-pdf.acsm?id=HdOW3luqHZwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://books.google.com.br/books/reader?id=HdOW3luqHZwC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Through Deitel &amp; Associates, Inc., he has delivered web programming, <b>Java</b>, C#, <br>\nVisual Basic, C++ and C courses to industry clients, including Cisco, IBM, Sun <br>\nMicrosystems, Dell, Lucent Technologies, Fidelity, NASA at the Kennedy Space&nbsp;<b>...</b>"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DmMMAAAACAAJ",
+      "etag": "iir3+1+ZMos",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DmMMAAAACAAJ",
+      "volumeInfo": {
+        "title": "Java in the Lab.",
+        "subtitle": "Lab Manual.",
+        "authors": [
+          "Harvey M. Deitel",
+          "Paul J. Deitel"
+        ],
+        "publisher": "Pearson Education",
+        "publishedDate": "2003-08-01",
+        "description": "Java in the Lab is designed to accompany the textbook, Java How to Program, Fifth Edition, and the optional, interactive CD-ROM-based Java Multimedia Cyber Classroom, Fifth Edition, in a laboratory environment. This suite of course materials offers hundreds of exercises that cover introductory and intermediate Java programming concepts by enabling students to \"learn by doing\" -- a core teaching philosophy at Deitel & Associates, Inc. Book jacket.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0131016318"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780131016316"
+          }
+        ],
+        "pageCount": 486,
+        "printType": "BOOK",
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://bks3.books.google.com.br/books?id=DmMMAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://bks3.books.google.com.br/books?id=DmMMAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=DmMMAAAACAAJ&dq=Java+inauthor:Deitel&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=DmMMAAAACAAJ&dq=Java+inauthor:Deitel&hl=&source=gbs_api",
+        "canonicalVolumeLink": "http://books.google.com.br/books/about/Java_in_the_Lab.html?hl=&id=DmMMAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://books.google.com.br/books/reader?id=DmMMAAAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "NONE"
+      },
+      "searchInfo": {
+        "textSnippet": "Java in the Lab is designed to accompany the textbook, Java How to Program, Fifth Edition, and the optional, interactive CD-ROM-based Java Multimedia Cyber Classroom, Fifth Edition, in a laboratory environment."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HL5pmgEACAAJ",
+      "etag": "rnfMjkEEb+c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HL5pmgEACAAJ",
+      "volumeInfo": {
+        "title": "Java",
+        "subtitle": "How to Program",
+        "authors": [
+          "Paul J. Deitel",
+          "Harvey M. Deitel"
+        ],
+        "publishedDate": "2012",
+        "description": "\"The [arrays] exercises are quite sophisticated and interesting. Provides the best combination of conceptual discussion and implementation examples of dynamic binding that I have encountered in a text. Excellent overview of basic networking via Java. Provides the perfect breadth and depth for generics in an entry-level Java class. Provides a good segue into a data structures course -- the exercises are excellent.\" -- Ric Heishman, George Mason University \"Beautiful collections of exercises--a nice illustration of how to use Java libraries to generate impressive and stimulating graphics with minimal code and effort. I found the \"Making a Difference\" exercises to be very nice and tactfully presented.\" -- Amr Sabry, Indiana University \"A comprehensive introduction to programming in Java that covers all major areas of the platform. To me, the best way to understand programming is by example, and this book contains copious, well-described sample code.\" -- Simon Ritter, Sun Microsystems \"Great example of polymorphism and interfaces. Great comparison of recursion and iteration. I found the [Searching and Sorting] chapter to be just right. A very understandable, simplified explanation of Big O--the best I have ever read! A great synthesis of details to help someone create generic data structures. I appreciate the addition of the GUI-based threading issues. Great approach to Java web technologies.\" -- Sue McFarland Metzger, Villanova University \"I'm sure this [ATM] case study will be of immense value to practitioners and students of the object-oriented approach. Demystifies inheritance and polymorphism, and illustrates their use in getting elegant, simple and maintainable code.\" -- Vinod Varma, Astra Infotech Private Limited.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0273759760"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780273759768"
+          }
+        ],
+        "pageCount": 1532,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 2,
+        "ratingsCount": 1,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://bks3.books.google.com.br/books?id=HL5pmgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://bks3.books.google.com.br/books?id=HL5pmgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=HL5pmgEACAAJ&dq=Java+inauthor:Deitel&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=HL5pmgEACAAJ&dq=Java+inauthor:Deitel&hl=&source=gbs_api",
+        "canonicalVolumeLink": "http://books.google.com.br/books/about/Java.html?hl=&id=HL5pmgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://books.google.com.br/books/reader?id=HL5pmgEACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "NONE"
+      },
+      "searchInfo": {
+        "textSnippet": "To me, the best way to understand programming is by example, and this book contains copious, well-described sample code.&quot; -- Simon Ritter, Sun Microsystems &quot;Great example of polymorphism and interfaces."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "g9YKAAAACAAJ",
+      "etag": "pvyAkO7CUX4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/g9YKAAAACAAJ",
+      "volumeInfo": {
+        "title": "Complete Java 2 Training Course",
+        "authors": [
+          "Harvey M. Deitel",
+          "Paul J. Deitel"
+        ],
+        "publishedDate": "2001-12-01",
+        "description": "For CS1 and other courses on programming in Java offered in departments of Computer Science, CIS, MIS, IT, Business, Engineering, and Continuing Education. Also appropriate for upper-level courses where the instructor wants a reference to the Java languag",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0130649341"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780130649348"
+          }
+        ],
+        "printType": "BOOK",
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://bks4.books.google.com.br/books?id=g9YKAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://bks4.books.google.com.br/books?id=g9YKAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=g9YKAAAACAAJ&dq=Java+inauthor:Deitel&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=g9YKAAAACAAJ&dq=Java+inauthor:Deitel&hl=&source=gbs_api",
+        "canonicalVolumeLink": "http://books.google.com.br/books/about/Complete_Java_2_Training_Course.html?hl=&id=g9YKAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://books.google.com.br/books/reader?id=g9YKAAAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "NONE"
+      },
+      "searchInfo": {
+        "textSnippet": "For CS1 and other courses on programming in Java offered in departments of Computer Science, CIS, MIS, IT, Business, Engineering, and Continuing Education."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "g-PrgKYn4vQC",
+      "etag": "3jXXwPHEyD0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/g-PrgKYn4vQC",
+      "volumeInfo": {
+        "title": "Java How to Program",
+        "subtitle": "Late Objects Version",
+        "authors": [
+          "Paul J. Deitel",
+          "Harvey M. Deitel"
+        ],
+        "publisher": "Prentice Hall",
+        "publishedDate": "2009-07-01",
+        "description": "The Deitels’ groundbreaking How to Program series offers unparalleled breadth and depth of object-oriented programming concepts and intermediate-level topics for further study. This survey of Java programming contains an optional extensive OOD/UML 2 case study on developing and implementing the software for an automated teller machine. The Eighth Edition of this acclaimed text is now current with the Java SE 6 updates that have occurred since the book was last published. The Late Objects Version delays coverage of class development until Chapter 8, presenting the control structures, methods and arrays material in a non-object-oriented, procedural programming context.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0136123716"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780136123712"
+          }
+        ],
+        "pageCount": 1133,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 3,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://bks0.books.google.com.br/books?id=g-PrgKYn4vQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://bks0.books.google.com.br/books?id=g-PrgKYn4vQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=g-PrgKYn4vQC&q=Java+inauthor:Deitel&dq=Java+inauthor:Deitel&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=g-PrgKYn4vQC&dq=Java+inauthor:Deitel&hl=&source=gbs_api",
+        "canonicalVolumeLink": "http://books.google.com.br/books/about/Java_How_to_Program.html?hl=&id=g-PrgKYn4vQC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://books.google.com.br/books/reader?id=g-PrgKYn4vQC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "NONE"
+      },
+      "searchInfo": {
+        "textSnippet": "The Eighth Edition of this acclaimed text is now current with the Java SE 6 updates that have occurred since the book was last published."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "umtwQgAACAAJ",
+      "etag": "jL/y7orB+3s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/umtwQgAACAAJ",
+      "volumeInfo": {
+        "title": "Advanced Java 2 Platform",
+        "subtitle": "How to Program",
+        "authors": [
+          "Harvey M Deitel, PH.D.",
+          "Paul J. Deitel",
+          "Sean Santry",
+          "Sean E. Santry"
+        ],
+        "publishedDate": "2002",
+        "description": "CD-ROM contains: Live links to Internet sites mentioned in text -- Live code examples from text -- Chapters and Appendices (PDF) not included in text -- Software programs for computers using a Windows operating system.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0130895601"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780130895608"
+          }
+        ],
+        "pageCount": 1811,
+        "printType": "BOOK",
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://bks4.books.google.com.br/books?id=umtwQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://bks4.books.google.com.br/books?id=umtwQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=umtwQgAACAAJ&dq=Java+inauthor:Deitel&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=umtwQgAACAAJ&dq=Java+inauthor:Deitel&hl=&source=gbs_api",
+        "canonicalVolumeLink": "http://books.google.com.br/books/about/Advanced_Java_2_Platform.html?hl=&id=umtwQgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://books.google.com.br/books/reader?id=umtwQgAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "NONE"
+      },
+      "searchInfo": {
+        "textSnippet": "This book looks at the exciting world of advanced programming concepts with the three major Java platforms - Java 2 Enterprise Edition (J2EE), Java 2 Standard Edition (J2SE) and Java 2 Micro Edition (J2ME)."
+      }
+    }
+  ]
+}
