@@ -18,7 +18,6 @@ function findBook() {
 function findAll() {
 	console.log('findAll');
 	surl = gbWS + $('#titulo').val() + sauthor + $('#autor').val()  + skey;
-	alert(surl);
 	$.ajax({
 		type: 'GET',
 		url: surl,

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Styling the Base Map</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <style>
+      html, body, #map {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        width: 100%
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+   <script>
+      var map;
+      function initialize() {
+        map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 16,
+          center: new google.maps.LatLng(-22.5069533, -47.1608219),
+          mapTypeId: 'roadmap',
+          styles: [
+            {
+              featureType: 'road',
+              elementType: 'geometry',
+              stylers: [
+                { color: '#000000' },
+                { weight: 1.6 }
+              ]
+            }, {
+              featureType: 'road',
+              elementType: 'labels',
+              stylers: [
+                { saturation: -100 },
+                { invert_lightness: true }
+              ]
+            }, {
+              featureType: 'landscape',
+              elementType: 'geometry',
+              stylers: [
+                { hue: '#ffff00' },
+                { gamma: 1.4 },
+                { saturation: 82 },
+                { lightness: 96 }
+              ]
+            }, {
+              featureType: 'poi.school',
+              elementType: 'geometry',
+              stylers: [
+                { hue: '#fff700' },
+                { lightness: -15 },
+                { saturation: 99 }
+              ]
+            }, {
+              featureType: 'poi',
+              elementType: 'geometry',
+              stylers: [
+                { visibility: 'off' }
+              ]
+            }, {
+              featureType: 'poi.school',
+              elementType: 'geometry',
+              stylers: [
+                { visibility: 'on' },
+                { hue: '#fff700' },
+                { lightness: -15 },
+                { saturation: 99 }
+              ]
+            }
+          ]
+        });
+      }
+    </script>
+    <script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAqCL-OhWfKu2j_NeYrBLWdiw4PEblL9kk&callback=initialize">
+    </script>
+  </body>
+</html>
