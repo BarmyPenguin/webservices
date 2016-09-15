@@ -14,8 +14,8 @@ curl -X POST --data-urlencode 'payload={"channel": "#api", "username": "webhookb
 POST https://hooks.slack.com/services/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
 
     {  
-   "channel":"#api",
-   "username":"lalalala",
-   "text":"Ola Mundo",
-   "icon_emoji":":ghost:"
-  }
+    "channel":"#api",
+    "username":"lalalala",
+    "text":"Ola Mundo",
+    "icon_emoji":":ghost:"
+    }
