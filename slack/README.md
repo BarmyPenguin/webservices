@@ -23,6 +23,7 @@ POST https://hooks.slack.com/services/T2C657HTN/B2C6SM5RP/ouMxBxyqHdil8gay045mJ2
 
 API CALL BACK
 
+https://api.slack.com/methods/
 
 https://slack.com/api/users.info?token=xoxp-80209255940-80212247174-80342716053-152ff42355&user=U2C687954&pretty=1
 
