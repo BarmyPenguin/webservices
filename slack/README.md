@@ -25,7 +25,10 @@ API CALL BACK
 
 https://api.slack.com/methods/
 
+* info de  1 usuario
 https://slack.com/api/users.info?token=xoxp-80209255940-80212247174-80342716053-152ff42355&user=U2C687954&pretty=1
 
+* info de todos usuarios
+https://slack.com/api/users.list?token=xoxp-80209255940-80212247174-80342716053-152ff42355&pretty=1
 
 
